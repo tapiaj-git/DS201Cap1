@@ -1,5 +1,12 @@
 # DS201Cap1
 # Lets do this!!!!
 
-[![Open In Colab](https://colab.research.google.com/assets/colabbadge.svg)](https://github.com/lopezbec/DS_Capstone1_PythonExampl
-e/blob/main/Data_Understanding.ipynb)
+## Example for Google Colab Notebook links
+<table align="left">
+  <td>
+    <a href="https://colab.research.google.com/github/lopezbec/DS_Capstone1_PythonExample/blob/main/Data_Understanding.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  </td>
+   <td>
+  </table>
+
+<br><br></br>
