@@ -150,6 +150,18 @@ The FEMA National Risk Index provides metrics quantifying natural hazard and fin
 FEMA county data preview
 The first five rows displayed by df_nri.head() in the notebook:
 
+### FEMA county data preview
+
+The first five rows displayed by `df_nri.head()` in the notebook:
+
+| STATE | STATEABBRV | COUNTY | STCOFIPS | POPULATION | BUILDVALUE | RISK_SCORE | RISK_RATNG | EAL_SCORE | EAL_VALB | CFLD_EALB | HRCN_EALB | WFIR_EALB |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Alabama | AL | Autauga | 01001 | 58764 | 1.02414e+10 | 57.57 | Relatively Low | 59.87 | 1.38535e+07 | NaN | 633591 | 30029.8 |
+| Alabama | AL | Baldwin | 01003 | 231365 | 5.16023e+10 | 96.7239 | Relatively High | 96.6275 | 2.08447e+08 | 3.70494e+06 | 1.50899e+08 | 1.28274e+06 |
+| Alabama | AL | Barbour | 01005 | 25160 | 5.44182e+09 | 48.1234 | Relatively Low | 30.5384 | 5.5552e+06 | NaN | 612108 | 21612 |
+| Alabama | AL | Bibb | 01007 | 22239 | 3.53263e+09 | 39.1221 | Very Low | 31.0025 | 6.12857e+06 | NaN | 43837.4 | 25795 |
+| Alabama | AL | Blount | 01009 | 58992 | 3.77349e+09 | 68.4796 | Relatively Low | 62.3453 | 1.3369e+07 | NaN | 42636.5 | 73511.7 |
+
 *   Expected Annual Loss for Buildings (EAL_VALB): Measures the average annual dollar loss caused by damage to residential and commercial structures from natural hazards.
 
 
