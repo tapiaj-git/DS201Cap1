@@ -9,6 +9,8 @@ This notebook explores the Federal Housing Finance Agency (FHFA) House Price Ind
 
 **Data source:** https://www.fhfa.gov/data/house-price-index
 
+Download data .csv file [here](https://www.fhfa.gov/hpi/download/monthly/hpi_master.csv)
+
 ## 1. Understanding the Data
 
 ### When was the data acquired?
