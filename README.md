@@ -13,6 +13,16 @@ Download data .csv file [here](https://www.fhfa.gov/hpi/download/monthly/hpi_mas
 
 ## 1. Understanding the Data
 
+### Preview of the FHFA dataset
+
+| hpi_type | hpi_flavor | frequency | level | place_name | place_id | yr | period | index_nsa | index_sa | rstderr | note |
+| --- | --- | --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
+| traditional | purchase-only | monthly | USA or Census Division | East North Central Division | DV_ENC | 1991 | 1 | 100.00 | 100.00 | NaN | NaN |
+| traditional | purchase-only | monthly | USA or Census Division | East North Central Division | DV_ENC | 1991 | 2 | 100.87 | 100.87 | NaN | NaN |
+| traditional | purchase-only | monthly | USA or Census Division | East North Central Division | DV_ENC | 1991 | 3 | 101.32 | 100.90 | NaN | NaN |
+| traditional | purchase-only | monthly | USA or Census Division | East North Central Division | DV_ENC | 1991 | 4 | 101.73 | 100.96 | NaN | NaN |
+| traditional | purchase-only | monthly | USA or Census Division | East North Central Division | DV_ENC | 1991 | 5 | 102.32 | 101.31 | NaN | NaN |
+
 ### When was the data acquired?
 
 After getting the relative path of the csv file, I named it df. I opened the df and can see that the data ranges from 1975 to 2026. The FHFA publishes releases monthly and quarterly. It combines current and historical data.
