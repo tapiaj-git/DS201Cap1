@@ -147,7 +147,8 @@ The second graph looks at the 10 states with the highest recent House Price Inde
 
 The FEMA National Risk Index provides metrics quantifying natural hazard and financial vulnerability for every U.S. county. It bundles up properties by county. Key metrics in the dataset include:
 
-
+FEMA county data preview
+The first five rows displayed by df_nri.head() in the notebook:
 
 *   Expected Annual Loss for Buildings (EAL_VALB): Measures the average annual dollar loss caused by damage to residential and commercial structures from natural hazards.
 
