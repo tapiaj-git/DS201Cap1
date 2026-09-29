@@ -4,7 +4,7 @@
 
 This notebook explores the Federal Housing Finance Agency (FHFA) House Price Index (HPI) dataset to understand its coverage, attributes, and housing price trends.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPOSITORY/blob/main/DSCap1v2%20%282%29.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/j-dudas11/DS_201_Capstone_1_Jake_Dudas/blob/main/DSCap1v2.ipynb#scrollTo=uIM9RTuofewL)
 
 
 **Data source:** https://www.fhfa.gov/data/house-price-index
@@ -180,6 +180,4 @@ While the FHFA House Price Index provides important time-series tracking of prop
 
 This analysis used FHFA House Price Index data to look at housing price changes across the United States over time. Overall, the graphs show that home values have increased in many states, but the amount of growth is different depending on the location. The HPI measures changes in prices, not the actual dollar price of a home, so it can help investors compare trends. The FEMA National Risk Index can also help investors consider risks such as flooding, hurricanes, and wildfires before choosing where to invest.
 
-## Reproduce the notebook
 
-The notebook downloads `hpi_master.csv`, the FHFA data dictionary, and the FEMA county table in its code cells. Open the notebook in Colab and run the cells in order.
