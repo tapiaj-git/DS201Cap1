@@ -1,14 +1,5 @@
 # DS201Cap1
 
-
-## Example for Google Colab Notebook links
-<table align="left">
-  <td>
-    <a href="https://colab.research.google.com/github/tapiaj-git/DS201Cap1/blob/main/DSCap1v2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-  </td>
-   <td>
-  </table>
-
 # Getting into Business: Real Estate Investment Data Exploration
 
 **Authors:** John Tapia, Jacob Dudas, and James Pfaff  
