@@ -102,12 +102,12 @@ The dataset has missing values in index_sa, rstderr, and note. Missing values in
 
 **Categorical attributes**
 
-| hpi_type | hpi_flavor | frequency | level | place_name | place_id |
-| --- | --- | --- | --- | --- | --- |
-| 186011 | 186011 | 186011 | 186011 | 186011 | 186011 |
-| 5 | 3 | 2 | 4 | 472 | 472 |
-| traditional | all-transactions | quarterly | MSA | United States | USA |
-| 177642 | 89791 | 181751 | 145480 | 1128 | 1128 |
+|| hpi_type | hpi_flavor | frequency | level | place_name | place_id |
+| | --- | --- | --- | --- | --- | --- |
+| Count | 186011 | 186011 | 186011 | 186011 | 186011 | 186011 |
+| Unique | 5 | 3 | 2 | 4 | 472 | 472 |
+| Mode | traditional | all-transactions | quarterly | MSA | United States | USA |
+| Mode Freq. | 177642 | 89791 | 181751 | 145480 | 1128 | 1128 |
 
 **Period frequency (months or quarters):**
 
