@@ -27,19 +27,19 @@ The FHFA House Price Index tracks changes in single-family home prices over time
 
 The FHFA data dictionary used in the notebook describes these fields:
 
-| Field Name | Content | Type |
-| --- | --- | --- |
-| hpi_type | type of data | string |
-| hpi_flavor | flavor of HPI | string |
-| frequency | frequency of data | string |
-| level | level of geography | string |
-| place_name | place name | string |
-| place_id | place ID | string |
-| yr | year | numeric |
-| period | period | numeric |
-| index_nsa | index, non seasonally adjusted | numeric |
-| index_sa | index, seasonally adjusted | numeric |
-| Median Price ($) | median price | numeric |
+| Field Name | Content | 
+| --- | --- | 
+| hpi_type | type of data |
+| hpi_flavor | flavor of HPI |
+| frequency | frequency of data | 
+| level | level of geography | 
+| place_name | place name | 
+| place_id | place ID |
+| yr | year | 
+| period | period |  
+| index_nsa | index, non seasonally adjusted | 
+| index_sa | index, seasonally adjusted | 
+| Median Price ($) | median price | 
 
 The loaded `hpi_master.csv` also contains `rstderr` (relative standard error) and `note` (notes for observations).
 
