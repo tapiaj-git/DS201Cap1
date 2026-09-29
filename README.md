@@ -4,7 +4,7 @@
 
 This notebook explores the Federal Housing Finance Agency (FHFA) House Price Index (HPI) dataset to understand its coverage, attributes, and housing price trends.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/j-dudas11/DS_201_Capstone_1_Jake_Dudas/blob/main/DSCap1v2.ipynb#scrollTo=uIM9RTuofewL)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tapiaj-git/DS201Cap1/blob/main/DSCap1v2.ipynb)
 
 
 **Data source:** https://www.fhfa.gov/data/house-price-index
