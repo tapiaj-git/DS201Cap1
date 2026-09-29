@@ -6,7 +6,6 @@ This notebook explores the Federal Housing Finance Agency (FHFA) House Price Ind
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPOSITORY/blob/main/DSCap1v2%20%282%29.ipynb)
 
-> Replace `USERNAME` and `REPOSITORY` with your GitHub username and repository name. Upload the notebook and the `figures` folder to the same repository.
 
 **Data source:** https://www.fhfa.gov/data/house-price-index
 
