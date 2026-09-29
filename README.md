@@ -130,13 +130,12 @@ The dataset has missing values in index_sa, rstderr, and note. Missing values in
 
 ![Average House Price Index by HPI Type](figures/hpi_by_type.png)
 
-This graph is useful for developing investment strategies because it shows how different types of housing have changed in value over time. By comparing categories such as traditional, distress-free, developmental, non-metro, and manufactured housing, investors can identify differences in long-term price growth and periods of decline or recovery. These trends can help investors understand which segments have historically experienced stronger appreciation and which have followed different market patterns. Using this information alongside other factors such as location, risk, and investment costs can help investors develop strategies that match their goals and determine which types of housing markets may be worth investigating further.
-
 ![House Price Index Over Time for the Top 10 States](figures/top_10_states.png)
 
-The first line graph shows how the House Price Index changed over time for all observations in the dataset. For the most part it has just incrased, with 2008 being the exception due to the financial crisis.
 
-The second graph looks on the 10 states with the highest recent House Price Index values. These states have had larger overall increases from their starting index values, but this does not mean they have the highest home prices or are the best places to invest. Investors should also look at other things before making a decision
+The first line graph shows how the House Price Index changed over time for all observations in the dataset, dependent on the type of housing. For the most part, it has increased, with 2008 being the exception due to the financial crisis. By comparing categories such as traditional, distress-free, developmental, non-metro, and manufactured housing, investors can identify differences in long-term price growth and periods of decline or recovery.
+
+The second graph looks at the 10 states with the highest recent House Price Index values. These states have had larger overall increases from their starting index values, but this does not mean they have the highest home prices or are the best places to invest. Investors should also look at other things before making a decision
 
 ## 3. Expanding Your Investment Knowledge
 
